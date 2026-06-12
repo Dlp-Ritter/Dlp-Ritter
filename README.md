@@ -38,3 +38,25 @@ y aplicándolas sobre infraestructura containerizada.
 <br>
 
 ## Proyectos destacados
+
+| Proyecto | Descripción |
+|---|---|
+| [docker-infra-lab](https://github.com/tu-usuario/docker-infra-lab) | Entornos containerizados para pruebas y CI |
+| [cypress-e2e-suite](https://github.com/tu-usuario/cypress-e2e-suite) | Suite de pruebas E2E y de API |
+| [jenkins-devsecops-pipeline](https://github.com/tu-usuario/jenkins-devsecops-pipeline) | Pipeline CI/CD con escaneos de seguridad |
+| [c-cpp-toolbox](https://github.com/tu-usuario/c-cpp-toolbox) | Herramientas de sistema en C/C++ |
+| [tuleap-qa-workflow](https://github.com/tu-usuario/tuleap-qa-workflow) | Gestión de pruebas y trazabilidad |
+| [dotfiles-emacs](https://github.com/tu-usuario/dotfiles-emacs) | Configuración de Emacs para desarrollo |
+
+<br>
+
+## Contacto
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tu-perfil/">
+<img border="0" alt="LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+<a href="mailto:tu-correo@ejemplo.com">
+<img border="0" alt="Correo" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+</p>
