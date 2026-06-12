@@ -73,3 +73,17 @@ y aplicándolas sobre infraestructura containerizada.
 </a>
 </p>
 
+
+
+
+
+
+<!---------------------------------------------->
+
+
+### Stats
+[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=Dlp-Ritter&show_icons=true&theme=react)](https://github.com/Dlp-Ritter/github-readme-stats)
+
+### Most used languages
+![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlp-Ritter&theme=react&layout=compact&hide=HTML)
+
