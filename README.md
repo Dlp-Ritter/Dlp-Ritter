@@ -37,6 +37,19 @@ y aplicándolas sobre infraestructura containerizada.
 
 <br>
 
+<!-- ------------------------------------------- -->
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&show_icons=true&locale=en&layout=compact&theme=monokai&card_width=320" />
+</p>
+
+<p align="center"><i>Nota: los lenguajes principales son una métrica del código público, no reflejan necesariamente experiencia o nivel.</i></p>
+
+
+
+<!-- ------------------------------------------- -->
+
+
 ## Proyectos destacados
 
 | Proyecto | Descripción |
@@ -49,6 +62,16 @@ y aplicándolas sobre infraestructura containerizada.
 | [dotfiles-emacs](https://github.com/tu-usuario/dotfiles-emacs) | Configuración de Emacs para desarrollo |
 
 <br>
+
+<!-- ------------------------------------------- -->
+
+
+<p align="center">
+ <img height="200rem" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+</p>
+
+<!-- ------------------------------------------- -->
+
 
 ## Contacto
 
