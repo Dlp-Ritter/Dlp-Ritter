@@ -55,7 +55,7 @@ y aplicándolas sobre infraestructura containerizada.
 
 |There is always something new to learn|Trying get some code done every day I can|
 |:-:|:-:|
-|![There is always something to learn](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|![Trying to get some code in every day](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)|
+|![Siempre hay algo que aprender](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|
 
 
 <br>
