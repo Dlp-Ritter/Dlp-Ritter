@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Linux+%26+Systems+Enthusiast;Aprendiendo+DevSecOps;Docker+%7C+Cypress+%7C+Jenkins;C%2FC%2B%2B+Developer;Emacs+User;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Hola%2C+soy+%5BTu+Nombre%5D)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
- <img height="280rem" alt="GIF" src="https://media.tenor.com/2roZ-IoNb8AAAAAC/hacking-typing.gif" />
+ <img height="150rem" alt="GIF" src="https://media.tenor.com/2roZ-IoNb8AAAAAC/hacking-typing.gif" />
 </p>
 
 <p align="center">
