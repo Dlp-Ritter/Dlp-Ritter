@@ -102,7 +102,8 @@ y aplicándolas sobre infraestructura containerizada.
 <p align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dlp-Ritter
 &rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true"&rank_icon=percentile align = "center"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Dlp-Ritter
+&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
 </p>
 </div>
 
