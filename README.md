@@ -40,7 +40,6 @@ y aplicándolas sobre infraestructura containerizada.
 
 
 <!------------------>
-### Lenguajes más usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlp-Ritter&theme=react&layout=compact&hide=HTML)
 
 
