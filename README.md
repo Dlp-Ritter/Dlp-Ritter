@@ -84,3 +84,30 @@ y aplicándolas sobre infraestructura containerizada.
 <img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="Email"/>
 </a>
 </p>
+
+
+
+
+
+
+
+<br>
+
+<div>
+<p align="center">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true"&rank_icon=percentile align = "center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
+</p>
+</div>
+
+<div style="display: inline-block; overflow: hidden;">
+<img src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif" height="265" align="center"/>
+<img src="https://cdnvideo-static-ssl.ctclove.ru/uploads/test/preview_picture/3854978478.gif" height="265" align="center"/>
+</div>
+
+
+
+ <center><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</center>
+
+  [![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-E-Ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
