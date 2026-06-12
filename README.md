@@ -54,9 +54,9 @@ y aplicándolas sobre infraestructura containerizada.
 
 <p align="left">
 <a href="www.linkedin.com/in/duglas-pop-guitz-490ab72b0">
-<img border="0" alt="LinkedIn" src="https://img.icons8.com/material-outline/40/linkedin.png"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:duglas_leonel_1704@protonmail.com">
-<img border="0" alt="Correo" src="https://img.icons8.com/material-outline/40/new-post.png"/>
+<img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="Email"/>
 </a>
 </p>
