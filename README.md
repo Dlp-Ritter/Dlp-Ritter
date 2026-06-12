@@ -35,9 +35,16 @@ y aplicándolas sobre infraestructura containerizada.
 ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)
 ![Seguridad](https://img.shields.io/badge/Seguridad-Entusiasta-success?style=flat)
 
+
 <br>
 
 
+<!------------------>
+### Lenguajes más usados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlp-Ritter&theme=react&layout=compact&hide=HTML)
+
+
+<!------------------->
 ## Proyectos destacados
 
 | Proyecto | Descripción |
@@ -81,9 +88,6 @@ y aplicándolas sobre infraestructura containerizada.
 <!---------------------------------------------->
 
 
-### Stats
-[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=Dlp-Ritter&show_icons=true&theme=react)](https://github.com/Dlp-Ritter/github-readme-stats)
 
-### Most used languages
-![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlp-Ritter&theme=react&layout=compact&hide=HTML)
+
 
