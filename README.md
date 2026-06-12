@@ -52,11 +52,11 @@ y aplicándolas sobre infraestructura containerizada.
 <br>
 
 <!-- ------------------------------------------- -->
-<p align="center" >
+
 |Siempre hay algo que aprender|
 |:-:|
 |![Siempre hay algo que aprender](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|
-</p>
+
 
 <br>
 
