@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy Duglas 👋</h1>
 <!-- ------------------------------------------- -->
 
-<p align="center">
- <img height="150rem" alt="GIF" src="https://media.tenor.com/2roZ-IoNb8AAAAAC/hacking-typing.gif" />
-</p>
+<p align="center" >
+ <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+ </p>
 
 
 <!-- ------------------------------------------- -->
