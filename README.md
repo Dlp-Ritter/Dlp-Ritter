@@ -40,7 +40,8 @@ y aplicándolas sobre infraestructura containerizada.
 <!-- ------------------------------------------- -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&show_icons=true&locale=en&layout=compact&theme=monokai&card_width=320" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlp-Ritter
+&show_icons=true&locale=en&layout=compact&theme=monokai&card_width=320" />
 </p>
 
 <p align="center"><i>Nota: los lenguajes principales son una métrica del código público, no reflejan necesariamente experiencia o nivel.</i></p>
