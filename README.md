@@ -1,15 +1,12 @@
-<h1 align="center">Hola, soy Duglas 👋</h1>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Hola%2C+soy+%5BTu+Nombre%5D)](https://git.io/typing-svg)
-
-</div>
+<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<!-- ------------------------------------------- -->
 
 <p align="center">
  <img height="150rem" alt="GIF" src="https://media.tenor.com/2roZ-IoNb8AAAAAC/hacking-typing.gif" />
 </p>
 
+
+<!-- ------------------------------------------- -->
 <p align="center">
 Estudiante enfocado en sistemas Linux, virtualización y ciberseguridad.
 Actualmente aprendiendo prácticas DevSecOps (CI/CD, testing automatizado)
