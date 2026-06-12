@@ -1,9 +1,13 @@
 <h1 align="center">Hola, soy Duglas 👋</h1>
 
-<div align="center" style="border: px solid #000000;>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Linux+%26+Systems+Enthusiast;Aprendiendo+DevSecOps;Docker+%7C+Cypress+%7C+Jenkins;C%2FC%2B%2B+Developer;Emacs+User;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
- <img height="150rem" alt="GIF" src="https://media.tenor.com/2roZ-IoNb8AAAAAC/hacking-typing.gif" />
+ <img height="280rem" alt="GIF" src="https://media.tenor.com/2roZ-IoNb8AAAAAC/hacking-typing.gif" />
 </p>
 
 <p align="center">
