@@ -53,7 +53,7 @@ y aplicándolas sobre infraestructura containerizada.
 ## Contacto
 
 <p align="left">
-<a href="www.linkedin.com/in/duglas-pop-guitz-490ab72b0">
+<a href="https://www.linkedin.com/in/duglas-pop-guitz-490ab72b0">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:duglas_leonel_1704@protonmail.com">
