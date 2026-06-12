@@ -37,19 +37,6 @@ y aplicándolas sobre infraestructura containerizada.
 
 <br>
 
-<!-- ------------------------------------------- -->
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlp-Ritter
-&show_icons=true&locale=en&layout=compact&theme=monokai&card_width=320" />
-</p>
-
-<p align="center"><i>Nota: los lenguajes principales son una métrica del código público, no reflejan necesariamente experiencia o nivel.</i></p>
-
-
-
-<!-- ------------------------------------------- -->
-
 
 ## Proyectos destacados
 
@@ -66,10 +53,12 @@ y aplicándolas sobre infraestructura containerizada.
 
 <!-- ------------------------------------------- -->
 
+|There is always something new to learn|Trying get some code done every day I can|
+|:-:|:-:|
+|![There is always something to learn](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|![Trying to get some code in every day](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)|
 
-<p align="center">
- <img height="200rem" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-</p>
+
+<br>
 
 <!-- ------------------------------------------- -->
 
@@ -84,30 +73,4 @@ y aplicándolas sobre infraestructura containerizada.
 <img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="Email"/>
 </a>
 </p>
-
-
-
-|There is always something new to learn|Trying get some code done every day I can|
-|:-:|:-:|
-|![There is always something to learn](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|![Trying to get some code in every day](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)|
-
-
-<br>
-
-
-
-<br>
-
-<div>
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dlp-Ritter
-&rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true"&rank_icon=percentile align = "center"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Dlp-Ritter
-&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
-</p>
-</div>
-
-
- <center><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</center>
-
 
