@@ -48,8 +48,8 @@ y aplicándolas sobre infraestructura containerizada.
 
 | Proyecto | Descripción |
 |---|---|
-| [docker-infra-lab](https://github.com/Dlp-Ritter/docker_infra) | Entornos containerizados para pruebas y CI |
-| [cypress-e2e-suite](https://github.com/Dlp-Ritter/cypress-e2e-suite) | Suite de pruebas E2E y de API |
+| [docker_infra](https://github.com/Dlp-Ritter/docker_infra) | Entornos containerizados para pruebas y CI |
+| [cypress-e2e](https://github.com/Dlp-Ritter/cypress-e2e) | Suite de pruebas E2E y de API |
 | [jenkins-devsecops-pipeline](https://github.com/Dlp-Ritter/jenkins-devsecops-pipeline) | Pipeline CI/CD con escaneos de seguridad |
 | [tuleap-qa-workflow](https://github.com/Dlp-Ritter/tuleap-qa-workflow) | Gestión de pruebas y trazabilidad |
 | [dotfiles-emacs](https://github.com/Dlp-Ritter/dotfiles-emacs) | Configuración de Emacs para desarrollo |
